@@ -1,0 +1,8 @@
+/_build
+tmux*
+/deps
+erl_crash.dump
+*.ez
+mix.lock
+.bpenv
+bpth

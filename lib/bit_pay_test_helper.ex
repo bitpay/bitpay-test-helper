@@ -1,0 +1,2 @@
+defmodule BitPayTestHelper do
+end
